@@ -1,4 +1,4 @@
-# my-company-project-domain-microservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-project-domain-microservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-project-domain-microservice)
+# [projects](http://ivans-innovation-lab.github.io/projects)/my-company-project-domain-microservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-project-domain-microservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-project-domain-microservice)
 
 ## Running instructions
 
